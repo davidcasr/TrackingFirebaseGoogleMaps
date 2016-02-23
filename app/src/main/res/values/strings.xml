@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TrackingFirebaseGoogleMaps</string>
+    <string name="share_location">Start Sharing Your Location</string>
+</resources>
